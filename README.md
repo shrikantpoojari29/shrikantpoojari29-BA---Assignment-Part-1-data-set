@@ -56,6 +56,7 @@ To run the code, follow these steps:
 - pandas
 - scikit-learn
 - seaborn
+- matplotlib
 
 
 
