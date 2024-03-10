@@ -48,13 +48,7 @@ To run the code, follow these steps:
 
 1. Clone this repository.
 2. Install the required dependencies specified in `requirements.txt`.
-3. Run the Python scripts in the specified order.
-
-```bash
-python step1_clean_and_preprocess.py
-python step2_exploratory_analysis.py
-python step3_build_classification_model.py
-```
+3. Run the Python scripts .
 
 ## Dependencies
 
