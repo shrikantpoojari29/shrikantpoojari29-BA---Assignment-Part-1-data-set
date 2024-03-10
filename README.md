@@ -14,7 +14,7 @@ scaler = StandardScaler()
 data_scaled = scaler.fit_transform(data_encoded)
 
 
-## **Step 2: Exploratory Analysis**
+## Step 2: Exploratory Analysis
 
 Explore the dataset to gain insights.
 
