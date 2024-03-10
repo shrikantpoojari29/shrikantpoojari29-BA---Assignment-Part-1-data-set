@@ -13,4 +13,4 @@ data_encoded = pd.get_dummies(data)
 scaler = StandardScaler()
 data_scaled = scaler.fit_transform(data_encoded)
 
-
+## **Step 1: Clean and Preprocess the Data**
